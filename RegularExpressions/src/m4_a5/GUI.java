@@ -31,7 +31,6 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenu;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
-import javax.swing.Icon;
 import javax.swing.ImageIcon;
 import java.awt.Color;
 import javax.swing.JLabel;
@@ -39,7 +38,6 @@ import java.awt.Font;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 
-import javax.swing.JSpinner;
 import javax.swing.JComboBox;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;

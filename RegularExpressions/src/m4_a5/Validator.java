@@ -26,15 +26,15 @@ package m4_a5;
 public class Validator
 {
 	/****************************************************
-	 * Method     : ValidateFirstName
+	 * Method : ValidateFirstName
 	 *
-	 * Purpose    : The ValidateFirstName method checks firstName
-	 * in order to ensure that it is a valid input in accordance
-	 * with the regex parameters specified.
+	 * Purpose : The ValidateFirstName method checks firstName in order to
+	 * ensure that it is a valid input in accordance with the regex parameters
+	 * specified.
 	 *
-	 * Parameters : firstName          - the first name to be validated
+	 * Parameters : firstName - the first name to be validated
 	 *
-	 * Returns    : This method returns a true or false boolean value.
+	 * Returns : This method returns a true or false boolean value.
 	 *
 	 ****************************************************/
 	public static boolean validateFirstName(String firstName)
@@ -43,15 +43,15 @@ public class Validator
 	}
 
 	/****************************************************
-	 * Method     : ValidateLastName
+	 * Method : ValidateLastName
 	 *
-	 * Purpose    : The ValidateLastName method checks lastName
-	 * in order to ensure that it is a valid input in accordance
-	 * with the regex parameters specified.
+	 * Purpose : The ValidateLastName method checks lastName in order to ensure
+	 * that it is a valid input in accordance with the regex parameters
+	 * specified.
 	 *
-	 * Parameters : lastName          - the last name to be validated
+	 * Parameters : lastName - the last name to be validated
 	 *
-	 * Returns    : This method returns a true or false boolean value.
+	 * Returns : This method returns a true or false boolean value.
 	 *
 	 ****************************************************/
 	public static boolean validateLastName(String lastName)
@@ -60,15 +60,15 @@ public class Validator
 	}
 
 	/****************************************************
-	 * Method     : ValidateAddress
+	 * Method : ValidateAddress
 	 *
-	 * Purpose    : The ValidateAddress method checks address
-	 * in order to ensure that it is a valid input in accordance
-	 * with the regex parameters specified.
+	 * Purpose : The ValidateAddress method checks address in order to ensure
+	 * that it is a valid input in accordance with the regex parameters
+	 * specified.
 	 *
-	 * Parameters : address  - the address to be validated.
+	 * Parameters : address - the address to be validated.
 	 *
-	 * Returns    : This method returns a true or false boolean value.
+	 * Returns : This method returns a true or false boolean value.
 	 *
 	 ****************************************************/
 	public static boolean validateAddress(String address)
@@ -77,15 +77,14 @@ public class Validator
 	}
 
 	/****************************************************
-	 * Method     : ValidateCity
+	 * Method : ValidateCity
 	 *
-	 * Purpose    : The ValidateCity method checks city
-	 * in order to ensure that it is a valid input in accordance
-	 * with the regex parameters specified.
+	 * Purpose : The ValidateCity method checks city in order to ensure that it
+	 * is a valid input in accordance with the regex parameters specified.
 	 *
-	 * Parameters : city  - the city to be validated.
+	 * Parameters : city - the city to be validated.
 	 *
-	 * Returns    : This method returns a true or false boolean value.
+	 * Returns : This method returns a true or false boolean value.
 	 *
 	 ****************************************************/
 	public static boolean validateCity(String city)
@@ -94,15 +93,14 @@ public class Validator
 	}
 
 	/****************************************************
-	 * Method     : ValidateZip
+	 * Method : ValidateZip
 	 *
-	 * Purpose    : The ValidateZip method checks zip
-	 * in order to ensure that it is a valid input in accordance
-	 * with the regex parameters specified.
+	 * Purpose : The ValidateZip method checks zip in order to ensure that it is
+	 * a valid input in accordance with the regex parameters specified.
 	 *
-	 * Parameters : zip  - the zip to be validated.
+	 * Parameters : zip - the zip to be validated.
 	 *
-	 * Returns    : This method returns a true or false boolean value.
+	 * Returns : This method returns a true or false boolean value.
 	 *
 	 ****************************************************/
 	public static boolean validateZip(String zip)
@@ -111,15 +109,14 @@ public class Validator
 	}
 
 	/****************************************************
-	 * Method     : ValidatePhone
+	 * Method : ValidatePhone
 	 *
-	 * Purpose    : The ValidatePhone method checks phone
-	 * in order to ensure that it is a valid input in accordance
-	 * with the regex parameters specified.
+	 * Purpose : The ValidatePhone method checks phone in order to ensure that
+	 * it is a valid input in accordance with the regex parameters specified.
 	 *
 	 * Parameters : phone - the phone to be validated.
 	 *
-	 * Returns    : This method returns a true or false boolean value.
+	 * Returns : This method returns a true or false boolean value.
 	 *
 	 ****************************************************/
 	public static boolean validatePhone(String phone)
@@ -128,15 +125,14 @@ public class Validator
 	}
 
 	/****************************************************
-	 * Method     : ValidateEmail
+	 * Method : ValidateEmail
 	 *
-	 * Purpose    : The ValidateEmail method checks email
-	 * in order to ensure that it is a valid input in accordance
-	 * with the regex parameters specified.
+	 * Purpose : The ValidateEmail method checks email in order to ensure that
+	 * it is a valid input in accordance with the regex parameters specified.
 	 *
 	 * Parameters : email - the email to be validated.
 	 *
-	 * Returns    : This method returns a true or false boolean value.
+	 * Returns : This method returns a true or false boolean value.
 	 *
 	 ****************************************************/
 	public static boolean validateEmail(String email)
